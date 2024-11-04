@@ -11,18 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: readme-typing-effect
-      
-      # Fetch recent activity and update README
-      - name: Update Recent Activity
-        uses: jamesgeorge007/github-activity-readme@v1.1.0
+      - uses: jamesgeorge007/github-activity-readme@v1.1.0
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "Update README with recent activity"
-
-      # Push changes to the repository
-      - name: Commit and Push changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "${{ steps.update-recent-activity.outputs.COMMIT_MSG }}"
-          git push
