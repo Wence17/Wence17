@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m passionate about creating impactful web applications
 
 ## 📊 GitHub Stats & Activity
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wence17&theme=dark&hide_border=true" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api?username=Wence17&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
   </p>
@@ -69,10 +69,4 @@ I’m always open to learning and collaborating on projects. If you have an idea
 
 Thank you for visiting! 🌟 Let's build something great together.
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Wence17/Wence17/output/snake.svg" alt="Snake animation" />
-
-###
