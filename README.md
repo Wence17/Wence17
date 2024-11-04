@@ -24,12 +24,12 @@ Welcome to my GitHub! I’m passionate about creating impactful web applications
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wence17&theme=dark&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wence17&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
   </p>
 
 ### 👨‍💻 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wence17&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  </p>
 
 ---
 
