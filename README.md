@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m passionate about creating impactful web applications
 - 📘 Open to learning and sharing my journey on **personal growth** insights on LinkedIn.
 
 ---
-
+<!--   
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -53,7 +53,7 @@ Welcome to my GitHub! I’m passionate about creating impactful web applications
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wence17&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true" alt="languages graph"  /></p>
 
 ---
-
+-->
 ## 🤝 Let’s Collaborate!
 
 I’m always open to learning and collaborating on projects. If you have an idea, especially in blockchain or web development, feel free to reach out!
