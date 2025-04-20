@@ -69,4 +69,4 @@ I’m always open to learning and collaborating on projects. If you have an idea
 
 Thank you for visiting! 🌟 Let's build something great together.
 
-<img src="https://raw.githubusercontent.com/Wence17/Wence17/output/snake.svg" alt="Snake animation" />
+<!--   <img src="https://raw.githubusercontent.com/Wence17/Wence17/output/snake.svg" alt="Snake animation" /> -->
