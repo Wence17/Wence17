@@ -56,7 +56,7 @@ Welcome to my GitHub! I’m passionate about creating impactful web applications
 -->
 ## 🤝 Let’s Collaborate!
 
-I’m always open to learning and collaborating on projects. If you have an idea, especially in blockchain or web development, feel free to reach out!
+I’m always open to learning and collaborating on projects. If you have an idea, feel free to reach out!
 
 ### 📫 Contact
 
