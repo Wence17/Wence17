@@ -64,7 +64,7 @@ I’m always open to learning and collaborating on projects. If you have an idea
 
 <p align="left">
   <a href="https://linkedin.com/in/wenceslaus-obimka-ab5172295"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:obimkasomto@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:somtoobimka@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
