@@ -18,7 +18,7 @@ Hello there! I'm Obimka Wenceslaus, a software developer based in Abuja, Nigeria
 
 From the moment I wrote my first line of code, I knew I was hooked on the art of problem-solving through software. To me, software development has never been just a day job; it is an ever-evolving journey driven by curiosity and a commitment to continuous craftsmanship. What began with a simple 'Hello, World!' has matured into a full-fledged passion for engineering scalable interfaces, managing dynamic content systems, and delivering seamless user experiences.
 
-I am always looking to collaborate on exciting React.js and Next.js projects—whether that means architecting a new feature, optimizing dynamic workflows, or
+I am always looking to collaborate on exciting React.js and Next.js projects—whether that means architecting a new feature, optimizing dynamic workflows, or brainstorming creative tech solutions. Let's build something impactful together!
 
 ---
 <!--   
